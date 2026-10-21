@@ -1,0 +1,15 @@
+# Dean Nguyen
+
+> Dean Nguyen (Duy Nguyen) is a B2B digital marketer in Hanoi, Vietnam. He is a Digital Marketing Specialist at Niteco, Optimizely's largest global partner, where he supports the UK marketing team with outbound, events, workshops, AI search content and AI agents in Optimizely Opal. About five years in B2B marketing across Niteco, Manpower Vietnam, SmartOSC and SBB Healthcare. Optimizely Master certified. BA from Augustana College (magna cum laude).
+
+The portfolio is an interactive 1-bit desktop. The same facts are available as plain text in the résumé below.
+
+## Profile
+
+- [Résumé (Markdown)](https://deannguyen-mkt.github.io/digital/resume.md): roles, dates, results, certifications, skills and tools
+- [Portfolio](https://deannguyen-mkt.github.io/digital/): story timeline, work, places and credentials
+
+## Contact
+
+- [Email](mailto:duynguyenoffice@gmail.com): duynguyenoffice@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/ntduy-)
