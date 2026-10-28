@@ -1,6 +1,6 @@
 # Dean Nguyen (Duy Nguyen)
 
-B2B digital marketer in Hanoi, Vietnam (UTC+7). About five years in B2B marketing: SEO and SEM, AI search (GEO/AEO), outbound lead generation, CMS migrations, events and AI agents in Optimizely Opal.
+B2B digital marketer in Hanoi, Vietnam (UTC+7). About five years in B2B marketing: SEO and SEM, AI search (GEO/AEO), outbound lead generation, CMS migrations, events and AI agents in Optimizely Agent Platform.
 
 - Email: duynguyenoffice@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ntduy-
@@ -14,7 +14,7 @@ Mar 2026 to present
 Niteco is Optimizely's largest global partner. I support Niteco's UK marketing team with outbound campaigns, events, hosting workshops and all things digital.
 
 - AI search content: articles written to rank on Google and get cited in AI answers, including guides for teams moving from Kentico or Sitecore to Optimizely.
-- AI agents in Optimizely Opal for team jobs: competitor benchmarking, video storyboarding, blog production and new-hire onboarding.
+- AI agents in Optimizely Agent Platform for team jobs: competitor benchmarking, video storyboarding, blog production and new-hire onboarding.
 - niteco.com redesign: messaging, structure and design.
 - Opticon 2026: "Human First AI" booth presence in Sydney, New York and London (lines, talk tracks, merch).
 - Motion graphics: short animated explainers from message and script to final cut.
@@ -59,14 +59,14 @@ Jul 2017 to May 2021 · Magna cum laude, GPA 3.8
 - Optimizely Agent Platform, Advanced
 - Optimizely Web Experimentation, Core
 - Optimizely CMP, Core
-- Opal University, Cohort 11
+- Markademy (Optimizely), Cohort 11
 - Google Analytics Certified
 - IELTS 8.0
 
 ## Skills and tools
 
 - Marketing: B2B lead generation, outbound, SEO, SEM, AI search (GEO/AEO), content marketing, CMS migration, events, motion graphics, AI agents
-- Platforms: Optimizely, Optimizely Opal, Sitecore, WordPress, Shopify, Magento, BigCommerce
+- Platforms: Optimizely, Optimizely Agent Platform, Sitecore, WordPress, Shopify, Magento, BigCommerce
 - CRM and outreach: HubSpot, Salesforce, Apollo
 - Ads: Google Ads, LinkedIn Ads, Facebook Ads
 - Analytics: GA4, Microsoft Clarity, Factors
